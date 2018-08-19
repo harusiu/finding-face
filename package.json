@@ -1,6 +1,7 @@
 {
   "name": "finding-face",
   "version": "0.1.0",
+  "homepage" : "http://harusiu.github.io/finding-face",
   "private": true,
   "dependencies": {
     "clarifai": "^2.8.0",
