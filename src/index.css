@@ -1,5 +1,10 @@
 body {
   margin: 0;
   padding: 0;
-  font-family: sans-serif;
+  font-family: 'sans-serif';
+  background: linear-gradient(to right, rgb(173, 230, 237), rgb(245, 245, 220), rgb(235, 179, 79));
+}
+
+button {
+	cursor: pointer;
 }
