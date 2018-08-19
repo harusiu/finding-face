@@ -1,1 +1,1 @@
-This is a web app for recongnizing face on a image uploaded by logined users.
+This is a web app for recongnizing human face on a image uploaded by logined users.
